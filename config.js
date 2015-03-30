@@ -107,9 +107,9 @@ var config = {
 
   // 版块
   tabs: [
-    ['share', '分享'],
-    ['ask', '问答'],
-    ['job', '招聘'],
+    ['zero', 'Zero'],
+    ['one', 'One'],
+    ['hear', 'Hear'],
   ],
 
   // 极光推送
